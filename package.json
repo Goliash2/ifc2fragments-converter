@@ -27,10 +27,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/REPLACE_USER/ifc2fragments-converter.git"
+    "url": "git+https://github.com/Goliash2/ifc2fragments-converter.git"
   },
   "bugs": {
-    "url": "https://github.com/REPLACE_USER/ifc2fragments-converter/issues"
+    "url": "https://github.com/Goliash2/ifc2fragments-converter/issues"
   },
-  "homepage": "https://github.com/REPLACE_USER/ifc2fragments-converter#readme"
+  "homepage": "https://github.com/Goliash2/ifc2fragments-converter#readme"
 }

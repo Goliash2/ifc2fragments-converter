@@ -1,15 +1,15 @@
 {
   "name": "ifc2fragments-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "index.js",
   "dependencies": {
-    "@thatopen/fragments": "^3.1.0",
-    "three": "^0.175.0",
-    "web-ifc": "0.0.69"
+    "@thatopen/fragments": "^3.2.0",
+    "three": "^0.180.0",
+    "web-ifc": "0.0.72"
   },
   "devDependencies": {
-    "esbuild": "^0.23.1"
+    "esbuild": "^0.25.11"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
